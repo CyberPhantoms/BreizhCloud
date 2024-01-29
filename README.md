@@ -11,7 +11,7 @@ Tout le code qui nous a servit à hacker BreizhCloud. En plus de toutes les donn
 
 Les codes présents son open sources utilisez-les comme bon vous sembles.
 
-# Achats des données
+# Achat des données
 Les données non censurées seront distribuées pour la somme de 1.51 BTC à l'adresse suivante :
 - `1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa`
 
